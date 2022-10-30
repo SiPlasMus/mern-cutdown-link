@@ -1,0 +1,6 @@
+{
+	"port" : 5000,
+	"jwtSecret": "siplasmus imlearnff",
+	"mongoUri": "mongodb+srv://SiPlasMus:mytube.uz2021@cluster0.bizyxxx.mongodb.net/?retryWrites=true&w=majority",
+	"baseUrl": "http://localhost:5000"
+}
